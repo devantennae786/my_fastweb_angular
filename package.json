@@ -1,5 +1,4 @@
 {
-    "name": "@tinkoff/angular-open-source-starter",
     "version": "1.0.0",
     "scripts": {
         "ng": "ng",
